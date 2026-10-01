@@ -1,0 +1,6 @@
+{
+  "name": "Winter Arc",
+  "description": "Tracke deine Winter Arc Challenge: 10 Disziplinen, Prozentanzeige, Streaks und Erfolge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
